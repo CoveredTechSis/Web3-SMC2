@@ -86,7 +86,7 @@ function App() {
   return (
     <>
     <div>
-      <h2>A mini dapp</h2>
+      <h2>An Ethereum mini Wallet</h2>
       {error && <p className="error-message" style={{ color: 'red' }}>{error}
         </p>}
     
